@@ -1,4 +1,3 @@
-/* eslint-disable consistent-return */
 import Book from './BookClass.js';
 
 const bookTitle = document.querySelector('#bookName');
@@ -24,7 +23,7 @@ class BooksdataBase {
 
   showBook(title, author, id) {
     if (title === '' || author === '') {
-      return '';
+      addBk.removeEventListener('click', false, false);
     }
 
     booksWrapper.innerHTML += `

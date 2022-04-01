@@ -2,7 +2,7 @@
 
 > Awesome Book is simple application being built in our second module of our curriculum at microverse. its a book application were you are able to add and remove favourite book to a book list.
 
-Our goal here is to Build a book application with add and remove feature from scratch using JavaScripts. click [here](https://l2oukmane.github.io/Awesome-books/) to see deployed live version
+Our goal here is to Build a book application with add and remove feature from scratch using JavaScripts. click [here](https://l2oukmane.github.io/Awesome-Book/) to see deployed live version
 
 ### Features implemented so far are:
 
